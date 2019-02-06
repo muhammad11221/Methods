@@ -14,28 +14,7 @@ public class M1 {
 
     }
 
-    void a(){
 
-    }
-    int b(){
-       return 0;
-    }
-    long c(){
-            return 1;
-    }
-    char c2(){
-        return 'a';
-    }
-    String d(){
-            return "";
-    }
-
-
-    //Java Bean
-    int num;
-    public int getNum(){
-        return 0;
-    }
 
     public static int addingnumber(int num1,int num2){
         int sum = 0;
